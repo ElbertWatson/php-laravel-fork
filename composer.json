@@ -1,5 +1,5 @@
 {
-    "name": "travis/fork",
+    "name": "ElbertWatson/php-laravel-fork",
     "description": "A Laravel PHP library for processing code in the background.",
     "website": "https://github.com/swt83/php-laravel-fork",
     "license": "MIT",
